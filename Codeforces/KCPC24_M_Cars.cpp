@@ -31,14 +31,15 @@ void file() {
 */
 
 void solve() {
-    int x1,y1,x2,y2; cin >> x1 >> y1 >> x2 >> y2;
-    cout << ((y2 - y1) * (x2 - x1) > 0 ? "YES" : "NO") << endl;
+    int x,y,z; cin >> x >> y >> z;
+    int ans = x + (abs(y - z));
+    cout << ans << endl;
 }
 
 signed main() {
     file();
     MOXO
     int T = 1;
-    cin >> T;
+    // cin >> T;
     while (T--) solve();
 }
