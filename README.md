@@ -1,10 +1,9 @@
 # Competitive Programming Solutions
-
 Collection of my solutions to competitive programming problems.
 
 ## Platforms
-- Codeforces
-- AtCoder
+- [Codeforces](https://codeforces.com/profile/moxoc)
+- [AtCoder](https://atcoder.jp/users/moxo)
 - UVA
 - ECPC Practice
 
